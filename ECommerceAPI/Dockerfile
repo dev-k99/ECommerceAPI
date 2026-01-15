@@ -4,11 +4,15 @@ WORKDIR /src
 COPY *.csproj ./
 RUN dotnet restore
 COPY . .
-WORKDIR /src
-RUN dotnet publish -c Release -o /app/out
+RUN dotnet publish ECommerceAPI.csproj -c Release -o /app/out
 
 # Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+
+RUN apt-get update && \
+    apt-get install -y libgssapi-krb5-2 && \
+    rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
 COPY --from=build /app/out .
 EXPOSE 10000
