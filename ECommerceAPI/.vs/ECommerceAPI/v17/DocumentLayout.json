@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Migrations\\20260115100848_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerceAPI\\Migrations\\20260115100848_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\kwanele\\documents\\projects\\ecommerceapi\\ecommerceapi\\ecommerceapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80341FD9-E788-4AA8-90DA-0DB30A75BB3A}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Dockerfile",
+              "RelativeToolTip": "ECommerceAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-15T10:16:30.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260115100848_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Migrations\\20260115100848_Initial.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Migrations\\20260115100848_Initial.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Migrations\\20260115100848_Initial.cs",
+              "RelativeToolTip": "ECommerceAPI\\Migrations\\20260115100848_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:08:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECommerceAPI",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
+              "RelativeDocumentMoniker": "ECommerceAPI\\ECommerceAPI.csproj",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj*",
+              "RelativeToolTip": "ECommerceAPI\\ECommerceAPI.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T09:48:56.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\appsettings.json",
+              "RelativeToolTip": "ECommerceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T09:47:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeToolTip": "ECommerceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:46:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwCYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:45:03.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Models.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\Models.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:36:26.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:43:52.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:42:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:41:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kwanele\\Documents\\PROJECTS\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerceAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:39:34.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
